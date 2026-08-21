@@ -8,14 +8,6 @@
   prayr helps keep prayer requests in rotation without turning them into another productivity dashboard.
 </p>
 
-<p>
-  <a href="https://github.com/blondothenerd/prayr/actions/workflows/android.yml">
-    <img src="https://github.com/blondothenerd/prayr/actions/workflows/android.yml/badge.svg" alt="Android CI">
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
-  </a>
-</p>
 
 <br>
 
