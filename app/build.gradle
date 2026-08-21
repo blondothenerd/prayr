@@ -1,1 +1,28 @@
+plugins {
+    id "com.android.application"
+}
 
+android {
+    namespace "dev.blondothenerd.prayr"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "dev.blondothenerd.prayr"
+        minSdk 26
+        targetSdk 35
+        versionCode 5
+        versionName "1.2.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro"
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
