@@ -19,7 +19,9 @@
 
 <br>
 
-<img src="docs/images/screenshot.png" alt="prayr Android app screenshot" width="340">
+<p align="center">
+  <img src="docs/images/screenshot.png" alt="Prayr Android App" width="360">
+</p>
 
 <br><br>
 
