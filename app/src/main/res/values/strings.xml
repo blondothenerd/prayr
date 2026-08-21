@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prayr</string>
+    <string name="notification_channel_name">Prayer reminders</string>
+    <string name="notification_channel_description">Gentle reminders to pray for people on your list</string>
+    <string name="car_channel_name">Android Auto spoken prayers</string>
+    <string name="car_channel_description">Playback controls while prayr reads a selected prayer aloud</string>
+    <string name="car_action_prayed">Prayed</string>
+    <string name="car_action_mute">Mute reminders</string>
+</resources>
